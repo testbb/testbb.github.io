@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W3F55987KW.com.blackberry.bbm.beta",
+        "paths":[ "*" ]
+      },
+      {
+      "appID": "P7E3XMAM8G.com.blackberry.bbm1",
+      "paths":[ "*" ]
+      }
+    ]
+  }
+}
