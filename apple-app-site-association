@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-      	 "appID": "5EXNM9C352.com.blackberry.mbBBMWithAssociatedDomains",
+      	 "appID": "5EXNM9C352.com.blackberry.mbBBMWithAssociatedDomainsINCORRECT",
       	 "paths":[ "/*", "NOT /upgrade/","NOT /appinfo/", "NOT /appinfo/*" , "NOT /faq/"]
       },
       {
