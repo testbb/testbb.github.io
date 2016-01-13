@@ -4,7 +4,7 @@
     "details": [
       {
       	 "appID": "5EXNM9C352.com.blackberry.mbBBMWithAssociatedDomains",
-      	 "paths":[ "*" ]
+      	 "paths":[ "*", "NOT /upgrade", "NOT /appinfo/*" , "NOT /faq"]
       },
       {
         "appID": "W3F55987KW.com.blackberry.bbm.beta",
