@@ -12,7 +12,7 @@
       },
       {
         "appID": "5EXNM9C352.com.blackberry.mbBBMWithAssociatedDomains",
-        "paths":[ "*" ]
+        "paths":[ "*" , "/" ]
       }
     ]
   }
