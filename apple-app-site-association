@@ -4,14 +4,10 @@
     "details": [
       {
         "appID": "W3F55987KW.com.blackberry.bbm.beta",
-        "paths":[ "*" ]
+        "paths":[ "/*" ]
       },
       {
         "appID": "P7E3XMAM8G.com.blackberry.bbm1",
-        "paths":[ "*" ]
-      },
-      {
-        "appID": "5EXNM9C352.com.blackberry.mbBBMWithAssociatedDomains",
         "paths":[ "/*" ]
       }
     ]
